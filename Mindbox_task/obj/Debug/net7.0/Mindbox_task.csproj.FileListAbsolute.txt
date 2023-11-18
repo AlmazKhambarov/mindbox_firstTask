@@ -1,0 +1,15 @@
+/Users/wp/Projects/Mindbox_task/Mindbox_task/bin/Debug/net7.0/Mindbox_task
+/Users/wp/Projects/Mindbox_task/Mindbox_task/bin/Debug/net7.0/Mindbox_task.deps.json
+/Users/wp/Projects/Mindbox_task/Mindbox_task/bin/Debug/net7.0/Mindbox_task.runtimeconfig.json
+/Users/wp/Projects/Mindbox_task/Mindbox_task/bin/Debug/net7.0/Mindbox_task.dll
+/Users/wp/Projects/Mindbox_task/Mindbox_task/bin/Debug/net7.0/Mindbox_task.pdb
+/Users/wp/Projects/Mindbox_task/Mindbox_task/obj/Debug/net7.0/Mindbox_task.csproj.AssemblyReference.cache
+/Users/wp/Projects/Mindbox_task/Mindbox_task/obj/Debug/net7.0/Mindbox_task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wp/Projects/Mindbox_task/Mindbox_task/obj/Debug/net7.0/Mindbox_task.AssemblyInfoInputs.cache
+/Users/wp/Projects/Mindbox_task/Mindbox_task/obj/Debug/net7.0/Mindbox_task.AssemblyInfo.cs
+/Users/wp/Projects/Mindbox_task/Mindbox_task/obj/Debug/net7.0/Mindbox_task.csproj.CoreCompileInputs.cache
+/Users/wp/Projects/Mindbox_task/Mindbox_task/obj/Debug/net7.0/Mindbox_task.dll
+/Users/wp/Projects/Mindbox_task/Mindbox_task/obj/Debug/net7.0/refint/Mindbox_task.dll
+/Users/wp/Projects/Mindbox_task/Mindbox_task/obj/Debug/net7.0/Mindbox_task.pdb
+/Users/wp/Projects/Mindbox_task/Mindbox_task/obj/Debug/net7.0/Mindbox_task.genruntimeconfig.cache
+/Users/wp/Projects/Mindbox_task/Mindbox_task/obj/Debug/net7.0/ref/Mindbox_task.dll
